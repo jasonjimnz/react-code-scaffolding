@@ -1,0 +1,3 @@
+export const SEARCH_INPUT_CHANGE = "SEARCH_INPUT_CHANGE";
+
+export const CALL_ERROR = "CALL_ERROR";
